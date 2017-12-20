@@ -12,4 +12,4 @@ I’m a PhD student in the [Technology and Social Behavior](http://tsb.northwest
 
 I am advised by [Aaron Shaw](http://aaronshaw.org/), and am a member of the [Community Data Science Collective](https://communitydata.cc/).
 
-Prior to arriving at Northwestern, I received an MA in [Sociology and Social Anthropology](https://sociology.ceu.edu/) from [Central European University](https://www.ceu.edu/), and a BA in [Mathematics](http://new.oberlin.edu/arts-and-sciences/departments/mathematics/) from [Oberlin College](www.oberlin.edu).
+Prior to arriving at Northwestern, I received an MA in [Sociology and Social Anthropology](https://sociology.ceu.edu/) from [Central European University](https://www.ceu.edu/), and a BA in [Mathematics](http://new.oberlin.edu/arts-and-sciences/departments/mathematics/) from [Oberlin College](http://www.oberlin.edu).
