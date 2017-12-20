@@ -10,4 +10,4 @@ redirect_from:
 {% include base_path %}
 
 
-You can view my CV here.
+You can view my CV [here](http://snehanar.github.io/files/Narayan_CV.pdf).
