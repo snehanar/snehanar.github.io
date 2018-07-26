@@ -9,7 +9,7 @@ redirect_from:
 image: IMG_1642.jpg
 ---
 
-I’m a PhD student in the [Technology and Social Behavior](http://tsb.northwestern.edu/) program at [Northwestern University](http://www.northwestern.edu/). My research is focused on newcomer mobilization and socialization in decentralized volunteer communities such as Wikipedia, and fan wikis.
+I’m a PhD candidate in the [Technology and Social Behavior](http://tsb.northwestern.edu/) program at [Northwestern University](http://www.northwestern.edu/). My research is focused on newcomer mobilization and socialization in decentralized volunteer communities such as Wikipedia, and fan wikis.
 
 I am advised by [Aaron Shaw](http://aaronshaw.org/), and am a member of the [Community Data Science Collective](https://communitydata.cc/).
 
