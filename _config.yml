@@ -12,7 +12,7 @@ locale                   : "en-US"
 title                    : "Sneha Narayan"
 title_separator          : "-"
 name                     : &name "Sneha Narayan"
-description              : &description "PhD Candidate in Technology and Social Behavior, Northwestern University"
+description              : &description "Department of Computer Science, Carleton College"
 url                      : https://snehanar.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "snehanar.github.io"
@@ -86,7 +86,7 @@ author:
   location         : 
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=2q5akfwAAAAJ&hl=en"
-  email            : "snehanarayan@u.northwestern.edu"
+  email            : "snarayan@carleton.edu"
   uri              :
   bitbucket        :
   codepen          :
